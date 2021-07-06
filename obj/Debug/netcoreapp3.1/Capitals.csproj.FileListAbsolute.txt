@@ -1,0 +1,13 @@
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.exe
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.deps.json
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.runtimeconfig.json
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.runtimeconfig.dev.json
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.dll
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\bin\Debug\netcoreapp3.1\Capitals.pdb
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.csproj.AssemblyReference.cache
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.AssemblyInfoInputs.cache
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.AssemblyInfo.cs
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.csproj.CoreCompileInputs.cache
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.dll
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.pdb
+F:\Dokumenty\marcin\Development\C#\capitals\Capitals\obj\Debug\netcoreapp3.1\Capitals.genruntimeconfig.cache
